@@ -7,4 +7,4 @@ In Project Settings-> Android, there will be a Configure Now Button on a large r
 
 As well, check Android SDK to ensure that the project has found the correct directories for the Android SDK etc, if not check your environment variables for the correct directory location. (Typically does find the right spot)
 
-I placed this in the templates folder of a source build to help with rapid iteration on gameplay prototypes1 (4.23.1)
+I placed this in the templates folder of a source build to help with rapid iteration on gameplay prototypes. (4.23.1)
