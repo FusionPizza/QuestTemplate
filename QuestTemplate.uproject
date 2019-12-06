@@ -3,6 +3,16 @@
 	"EngineAssociation": "{CFFD4D58-440A-02C3-6B87-7893F77D6E26}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "QuestTemplate",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"HeadMountedDisplay"
+			]
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
